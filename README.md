@@ -3,7 +3,7 @@
 Skill miễn phí cho **Claude Code, Codex, Antigravity** (hoặc bất kỳ coding agent nào đọc được `SKILL.md`).
 Đưa một ý tưởng, kịch bản hoặc cả một truyện có sẵn, agent sẽ tự:
 
-- ✍️ **Viết kịch bản truyện tranh** theo từng tình tiết, tự chia thành các phần 8–10 trang (mỗi phần một bài đăng)
+- ✍️ **Viết kịch bản truyện tranh** theo từng tình tiết, độ dài theo truyện (truyện ngắn hay cả bộ dài đều được), tự chia thành các phần 8–10 trang (mỗi phần một bài đăng)
 - 🧑‍🎨 **Tạo nhân vật, bối cảnh, đạo cụ** để giữ đồng nhất qua mọi trang
 - 👗 **Nhiều "look" cho mỗi nhân vật** (bác sĩ Minh mặc blouse / mặc đồ thường, cô gái / con quỷ…), mặt vẫn giữ nguyên
 - 📐 **Bố cục trang theo nhịp kể**: khung toàn cảnh, chia đôi khi đối thoại, khung lớn cho cú lật

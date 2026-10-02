@@ -25,10 +25,21 @@ Ask the user for: the story (idea, script or full text), language of the letteri
 **If it is someone else's copyrighted story, stop**: only the user's own story, public-domain works, or works they may adapt.
 Retell public-domain stories in your own words — translations have their own copyright.
 
-**Plan by story beats, not by a page count.** List every beat first (setup, motive, warnings ignored, reveal, cost,
-resolution, closing line). Give each beat 1–2 pages, add establishing panels when the place changes and reaction
-panels after every shock. A short story needs ~25–30 pages; never squeeze a story into a few pages — that is what makes
-comics feel abrupt. **Split into parts of 8–10 pages**, each ending on a cliffhanger (one social post per part).
+**There is no default page count — the story decides it.** If the user asked for a length ("a 10-page short",
+"a 20-part series"), respect it and tell them which beats will be compressed. Otherwise:
+
+1. **List every beat first** (setup, motive, warnings ignored, reveal, cost, resolution, closing line).
+   A long source (a novel, many chapters) → outline chapter by chapter first, then beats per chapter.
+2. **Size each beat by what happens in it**, not by a target total: a single action ≈ 1 page; a *process* the reader must
+   feel (a ghost slowly becoming human, a friendship forming, a long journey) needs several pages — never one caption.
+   Add establishing panels when the place changes and reaction panels after every shock.
+3. **Check for abrupt spots** before showing the plan: a character who appears and vanishes in one panel, a decision
+   with no visible reason, a relationship with no scene of its own. Each one needs more pages.
+4. **Split into parts of 8–10 pages**, each ending on a cliffhanger (one social post per part). A long story is simply
+   more parts — generate and proofread part by part so the user can stop or change direction early.
+
+Squeezing a story to fit a number is what makes comics feel abrupt. When unsure, err on the longer side and tell the
+user the page count and image estimate.
 
 Copy `examples/hoa-bi/comic.json` and keep its structure:
 
