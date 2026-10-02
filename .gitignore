@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*/img/
+*/proof/
+*/out/
+!examples/*/comic.json

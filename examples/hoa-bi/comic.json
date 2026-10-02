@@ -1,0 +1,543 @@
+{
+ "title": "HỌA BÌ",
+ "subtitle": "Bức da vẽ",
+ "series": "LIÊU TRAI CHÍ DỊ",
+ "language": "Vietnamese",
+ "aspectRatio": "9:16",
+ "visualStyle": "Chinese manhua horror comic art, confident ink linework with flat muted colors and soft cel shading, eerie palette of moonlit blue-grey and warm candle amber, ancient China in the Ming dynasty era, cinematic camera angles, expressive faces. NOT photorealistic, NOT 3D render.",
+ "anchor": "1-01",
+ "characters": {
+  "vuong": {
+   "name": "Vương sinh",
+   "appearance": "Chinese man aged 30. BODY: 7.5-head proportion, slender scholar build. FACE: handsome narrow face, thin brows, gentle but weak-willed eyes, clean-shaven. HAIR: long black hair tied in a topknot wrapped with a dark cloth band.",
+   "looks": {
+    "day": "OUTFIT: pale blue Ming-style scholar robe (cross-collar hanfu) with wide sleeves, dark sash, black cloth shoes.",
+    "night": "OUTFIT: plain white cotton inner robe for sleeping, hair loose down to the shoulders, barefoot."
+   }
+  },
+  "nang": {
+   "name": "người con gái",
+   "appearance": "Chinese woman, looks about 18. BODY: 7-head proportion, slim and graceful. FACE: breathtakingly beautiful oval face, sad almond eyes, small red lips, pale skin. HAIR: glossy black hair in a low bun with one plain jade hairpin.",
+   "looks": {
+    "beauty": "OUTFIT: soft peach-pink hanfu with a pale cross collar and long sleeves, carrying a small cloth bundle.",
+    "demon": "TRUE FORM — the same figure and the same peach-pink hanfu, but she is a demon: grey-green skin, glowing yellow eyes, a wide mouth full of jagged saw-like teeth, wild loose black hair, long dark claws. Frightening but NOT gory, no blood."
+   }
+  },
+  "tran": {
+   "name": "Trần thị",
+   "appearance": "Chinese woman aged 28, Vương sinh's wife. BODY: 7-head proportion, modest. FACE: kind, worried eyes, plain natural beauty. HAIR: neat bun with a wooden hairpin.",
+   "looks": {
+    "home": "OUTFIT: dark green simple hanfu with a light inner collar, cloth apron."
+   }
+  },
+  "daosi": {
+   "name": "đạo sĩ",
+   "appearance": "Chinese Taoist priest aged 55. BODY: 7.5-head proportion, lean and upright. FACE: sharp stern eyes, long grey beard and mustache, deep lines. HAIR: grey hair in a topknot held by a wooden Taoist crown pin.",
+   "looks": {
+    "robe": "OUTFIT: grey Taoist robe with black trim and a yin-yang patch, cloth shoes, a peachwood sword on his back and a gourd at his belt."
+   }
+  },
+  "dien": {
+   "name": "người điên",
+   "appearance": "Chinese beggar man aged 45, the madman of the market. BODY: 7-head proportion, gaunt, hunched. FACE: dirty face, wild grin with missing teeth, piercing eyes that seem secretly wise. HAIR: matted messy hair and beard.",
+   "looks": {
+    "rags": "OUTFIT: tattered patched rags, barefoot, holding a crooked walking stick."
+   }
+  }
+ },
+ "locations": {
+  "thuphong": {
+   "name": "Thư phòng",
+   "description": "A Ming-dynasty scholar's study room at night: wooden lattice window with paper panes, a low writing desk with brushes and an ink stone, a wooden bed with curtains, a candle on a stand, bookshelves"
+  },
+  "phongngu": {
+   "name": "Phòng ngủ",
+   "description": "A modest Ming-dynasty bedroom at night: wooden door with lattice, a canopy bed, an oil lamp, a folding screen"
+  },
+  "duong": {
+   "name": "Đường sớm",
+   "description": "A misty country road outside an ancient Chinese town at dawn, willow trees, a small stone bridge, distant town wall"
+  },
+  "cho": {
+   "name": "Chợ",
+   "description": "A busy ancient Chinese market street by day: wooden stalls, cloth awnings, lanterns, stone-paved road, a temple gate in the distance"
+  },
+  "nhanhilang": {
+   "name": "Nhà Nhị Lang",
+   "description": "A small ancient Chinese courtyard house: wooden gate, tiled roof, a well and a stone courtyard"
+  }
+ },
+ "props": {
+  "phattran": {
+   "name": "Phất trần",
+   "description": "A Taoist horsetail whisk: a polished wooden handle with a long flowing bundle of white horsehair"
+  },
+  "holo": {
+   "name": "Hồ lô",
+   "description": "A dried calabash gourd bottle tied with a red cord, a small wooden stopper"
+  }
+ },
+ "parts": {
+  "1": {
+   "title": "Người đẹp trong sương",
+   "recap": [
+    "1-03",
+    "1-05",
+    "1-09"
+   ],
+   "summary": "Vương sinh mê một cô gái lạ, giấu nàng trong thư phòng. Đạo sĩ cảnh báo, Vương gạt đi… cho tới khi nhìn trộm.",
+   "endBg": "1-09"
+  },
+  "2": {
+   "title": "Tấm da vẽ",
+   "recap": [
+    "2-01",
+    "2-07",
+    "2-09"
+   ],
+   "summary": "Con quỷ khoác tấm da vẽ, xé phất trần của đạo sĩ, xông vào moi tim Vương.",
+   "endBg": "2-09"
+  },
+  "3": {
+   "title": "Trái tim người vợ",
+   "recap": [],
+   "summary": "",
+   "endBg": "3-10"
+  }
+ },
+ "pages": [
+  {
+   "id": "cover",
+   "refs": [
+    "nang@beauty",
+    "nang@demon"
+   ],
+   "p": "A dramatic comic BOOK COVER, no panels. A close-up of a beautiful young woman's face (nang@beauty) — the right half of her face is peeling away like painted paper, revealing the grey-green demon face with glowing yellow eyes and jagged teeth underneath (nang@demon). A brush dripping ink in the foreground, misty moonlit background. Big title lettering at the top: \"HỌA BÌ\". Below it smaller: \"Bức da vẽ\". At the bottom: \"Liêu Trai Chí Dị · Tập 1\"."
+  },
+  {
+   "id": "1-01",
+   "refs": [
+    "vuong@day",
+    "nang@beauty",
+    "duong"
+   ],
+   "panels": [
+    "Wide: a misty country road at dawn, an ancient town wall far away. Caption box: \"Thái Nguyên, một buổi sớm sương mù.\"",
+    "Vương sinh (vuong@day) walking along the road, noticing a lone young woman (nang@beauty) ahead, clutching a cloth bundle.",
+    "Vương sinh speaks to her as she turns back nervously. Speech bubble from Vương sinh: \"Cô nương đi đâu sớm vậy?\""
+   ],
+   "layout": "1-2",
+   "part": 1
+  },
+  {
+   "id": "1-02",
+   "part": 1,
+   "layout": "2-1",
+   "refs": [
+    "vuong@day",
+    "nang@beauty",
+    "duong"
+   ],
+   "panels": [
+    "The young woman (nang@beauty) turns back with teary eyes, clutching her bundle. Speech bubble: \"Kẻ khổ như thiếp, chàng hỏi làm chi?\"",
+    "Vương sinh (vuong@day) steps closer, concerned. Speech bubble: \"Nàng có nỗi khổ gì, cứ nói ta nghe.\"",
+    "FLASHBACK in faded sepia tones: inside a rich household, a cruel first wife in fine silk raises a stick to beat the young woman, who cowers. Caption box: \"Cha mẹ ham tiền, bán nàng cho nhà giàu. Vợ cả ngày đêm đánh đập.\""
+   ]
+  },
+  {
+   "id": "1-03",
+   "part": 1,
+   "layout": "1-2",
+   "refs": [
+    "vuong@day",
+    "nang@beauty",
+    "duong"
+   ],
+   "panels": [
+    "The woman lowers her head sadly on the misty road. Speech bubble: \"Thiếp không chịu nổi nữa, đành bỏ trốn.\"",
+    "Close-up of the eyes of Vương sinh, enchanted and infatuated, gazing at her beauty. Thought bubble: \"Đẹp quá… như tiên giáng trần.\"",
+    "Vương sinh smiles warmly and gestures toward the town. Speech bubble: \"Nhà ta gần đây. Nàng về tạm lánh.\""
+   ]
+  },
+  {
+   "id": "1-04",
+   "part": 1,
+   "layout": "2-1",
+   "refs": [
+    "vuong@day",
+    "nang@beauty",
+    "duong",
+    "thuphong"
+   ],
+   "panels": [
+    "Vương sinh carries her bundle as they walk toward the town gate; she looks down, and the corner of her lips curls into a faint sinister smile he cannot see. No text.",
+    "At the back gate of the house, the two slip inside quietly, Vương sinh glancing around. No text.",
+    "Night, the study room lit by a candle: Vương sinh sits close beside the woman, enchanted. Caption box: \"Vương giấu nàng trong thư phòng, đêm đêm lui tới.\""
+   ]
+  },
+  {
+   "id": "1-05",
+   "part": 1,
+   "layout": "2x2",
+   "refs": [
+    "vuong@day",
+    "tran@home",
+    "thuphong"
+   ],
+   "panels": [
+    "Night corridor: Trần thị (tran@home) catches her husband sneaking toward the study with a tray of food. Speech bubble from Trần thị: \"Chàng giấu ai trong thư phòng?\"",
+    "Vương sinh (vuong@day) startled and flustered. Speech bubble: \"Một cô gái đáng thương thôi.\"",
+    "Trần thị worried, holding her hands together. Speech bubble: \"Lỡ nhà giàu đến đòi người… chàng nên cho đi.\"",
+    "Vương sinh turns away dismissively. Speech bubble: \"Nàng đừng ghen bóng ghen gió.\""
+   ]
+  },
+  {
+   "id": "1-06",
+   "part": 1,
+   "layout": "1-2-big",
+   "refs": [
+    "vuong@day",
+    "daosi@robe",
+    "cho"
+   ],
+   "panels": [
+    "Wide establishing shot of the busy ancient market by day. Caption box: \"Hôm sau, Vương ra chợ.\"",
+    "A Taoist priest (daosi@robe) blocks the way of Vương sinh and stares at him intently. Speech bubble: \"Công tử gặp chuyện gì lạ chăng?\"",
+    "Vương sinh (vuong@day) shrugs, avoiding his eyes. Speech bubble: \"Không có.\"",
+    "BIG dramatic close-up of the piercing eyes of the priest, faint dark mist swirling around Vương sinh behind him. Speech bubble: \"Tà khí quấn đầy người, vậy mà bảo không có!\""
+   ]
+  },
+  {
+   "id": "1-07",
+   "part": 1,
+   "layout": "2-1",
+   "refs": [
+    "vuong@day",
+    "daosi@robe",
+    "cho"
+   ],
+   "panels": [
+    "The priest walks away shaking his head. Speech bubble: \"Ngu thay! Có kẻ sắp chết mà không biết.\"",
+    "Vương sinh frozen in the middle of the market, uneasy, people passing by. No text.",
+    "Vương sinh walking alone through the crowd, troubled. Thought bubble: \"Nàng đẹp như vậy… sao có thể là yêu?\""
+   ]
+  },
+  {
+   "id": "1-08",
+   "part": 1,
+   "layout": "2-1",
+   "refs": [
+    "vuong@day",
+    "thuphong"
+   ],
+   "panels": [
+    "Dusk: Vương sinh at his garden gate, pushing it but it is bolted. Caption box: \"Cổng vườn cài then từ bên trong.\"",
+    "Vương sinh climbing over a crumbling back wall. Thought bubble: \"Sao lại cài cửa giữa ban ngày?\"",
+    "Vương sinh tiptoeing through the dark garden toward the study window glowing with candlelight. No text."
+   ]
+  },
+  {
+   "id": "1-09",
+   "refs": [
+    "vuong@day",
+    "nang@demon",
+    "thuphong"
+   ],
+   "panels": [
+    "Evening, the study room door shut tight. Caption box: \"Về đến nơi, cửa thư phòng đóng chặt.\"",
+    "Vương sinh (vuong@day) pressing himself against the paper window, peeking through a small torn hole, tense.",
+    "Extreme close-up of one eye behind the torn hole in the paper window, wide with suspicion. No text.",
+    "THE REVEAL seen through the hole: a grey-green demon (nang@demon) with jagged teeth spreads a flat human skin across the bed like a sheet of paper and paints it with a brush. Eerie candlelight. No text. No blood."
+   ],
+   "layout": "1-2-big",
+   "part": 1
+  },
+  {
+   "id": "2-01",
+   "part": 2,
+   "layout": "big-2",
+   "refs": [
+    "nang@demon",
+    "nang@beauty",
+    "thuphong"
+   ],
+   "panels": [
+    "BIG PANEL: the grey-green demon (nang@demon) lifts the finished painted human skin and shakes it out like a robe. Caption box: \"Vẽ xong, con quỷ giũ tấm da như giũ áo, khoác lên người.\"",
+    "In an instant she is the beautiful young woman again (nang@beauty), adjusting her collar. No text.",
+    "She looks into a bronze mirror and smiles sweetly, as if nothing happened. No text."
+   ]
+  },
+  {
+   "id": "2-02",
+   "part": 2,
+   "layout": "1-2",
+   "refs": [
+    "vuong@day",
+    "thuphong"
+   ],
+   "panels": [
+    "Vương sinh (vuong@day) stumbles back from the window, both hands clamped over his mouth, drenched in sweat. Thought bubble: \"Trời ơi… là quỷ!\"",
+    "Vương sinh scrambling back over the crumbling wall, shaking. No text.",
+    "Vương sinh running wildly down a dark street at night. Caption box: \"Vương chạy đi tìm đạo sĩ.\""
+   ]
+  },
+  {
+   "id": "2-03",
+   "part": 2,
+   "layout": "2-1",
+   "refs": [
+    "vuong@day",
+    "daosi@robe"
+   ],
+   "panels": [
+    "Vương sinh holding a paper lantern, running through narrow alleys, shouting. No text.",
+    "Outside the town in a moonlit empty field, the silhouette of the Taoist priest (daosi@robe) standing still. No text.",
+    "Vương sinh throws himself to his knees before the priest. Speech bubble: \"Xin đạo trưởng cứu mạng!\""
+   ]
+  },
+  {
+   "id": "2-04",
+   "part": 2,
+   "layout": "2x2",
+   "refs": [
+    "vuong@day",
+    "daosi@robe",
+    "phattran"
+   ],
+   "panels": [
+    "The priest sighs, looking at the moon. Speech bubble: \"Con quỷ ấy cũng khổ, đang tìm người thế mạng.\"",
+    "Close-up of the conflicted face of the priest. Speech bubble: \"Ta không nỡ giết nó.\"",
+    "The priest hands over a horsetail whisk (phattran). Speech bubble: \"Treo trước cửa phòng ngủ. Nó sẽ không dám vào.\"",
+    "Vương sinh clutching the whisk, bowing again and again in gratitude. No text."
+   ]
+  },
+  {
+   "id": "2-05",
+   "part": 2,
+   "layout": "2-1",
+   "refs": [
+    "vuong@day",
+    "tran@home",
+    "phattran",
+    "phongngu"
+   ],
+   "panels": [
+    "Vương sinh (vuong@day) hangs the horsetail whisk above the bedroom door. No text.",
+    "Vương sinh holds the hands of his wife Trần thị (tran@home), ashamed. Speech bubble: \"Nàng nói đúng… ta đã sai.\"",
+    "The couple bar the door and sit huddled beside a single lamp. Caption box: \"Đêm ấy, hai vợ chồng không dám ngủ.\""
+   ]
+  },
+  {
+   "id": "2-06",
+   "part": 2,
+   "layout": "1-2",
+   "refs": [
+    "vuong@night",
+    "tran@home",
+    "nang@beauty",
+    "phattran",
+    "phongngu"
+   ],
+   "panels": [
+    "The bedroom door seen from inside, a shadow gliding past the paper lattice outside. Caption box: \"Canh một.\" Sound effect lettering: \"LẠO XẠO…\"",
+    "Trần thị (tran@home) covers the mouth of her husband (vuong@night); both hold their breath in terror. No text.",
+    "Through the door lattice: the beautiful woman (nang@beauty) stands staring up at the whisk, grinding her teeth. No text."
+   ]
+  },
+  {
+   "id": "2-07",
+   "part": 2,
+   "layout": "2-big",
+   "refs": [
+    "nang@beauty",
+    "nang@demon",
+    "phattran",
+    "phongngu"
+   ],
+   "panels": [
+    "The woman (nang@beauty) glares at the whisk. Speech bubble: \"Đạo sĩ dọa ta ư?\"",
+    "She rips the whisk down and tears it apart. Speech bubble: \"Miếng ăn đến miệng, lẽ nào nhả ra!\" Sound effect: \"XOẸT!\"",
+    "BIG PANEL: the bedroom door bursts open violently, splinters flying, the silhouette of the demon (nang@demon) looming in the doorway against the moonlight. Sound effect: \"RẦM!\""
+   ]
+  },
+  {
+   "id": "2-08",
+   "part": 2,
+   "layout": "1-big-1",
+   "refs": [
+    "vuong@night",
+    "tran@home",
+    "nang@demon",
+    "phongngu"
+   ],
+   "panels": [
+    "Trần thị (tran@home) screaming. Speech bubble: \"KHÔNG!!!\"",
+    "BIG PANEL: the demon (nang@demon) in true form pounces onto the bed where Vương sinh (vuong@night) lies — shown as a dark silhouette against the lamp, no blood, no gore.",
+    "The demon leaps out through the window into the night, a faint red glow clutched in its claw. Caption box: \"Con quỷ moi tim Vương rồi biến mất.\" No blood."
+   ]
+  },
+  {
+   "id": "2-09",
+   "part": 2,
+   "layout": "splash",
+   "refs": [
+    "vuong@night",
+    "tran@home",
+    "phongngu"
+   ],
+   "panels": [
+    "SPLASH PAGE: Trần thị (tran@home) collapsed over the still body of her husband (vuong@night) under a blanket, weeping by the dim lamp, the torn whisk on the floor. No blood. Caption box: \"Vương đã chết.\""
+   ]
+  },
+  {
+   "id": "3-01",
+   "part": 3,
+   "layout": "1-2",
+   "refs": [
+    "tran@home",
+    "phongngu"
+   ],
+   "panels": [
+    "Early morning: Trần thị (tran@home), eyes red, calls a young man in plain brown clothes (Nhị Lang, the younger brother of Vương, about 22, short topknot). Caption box: \"Sáng hôm sau, Trần thị gọi Nhị Lang, em trai Vương.\"",
+    "Trần thị grips the arm of Nhị Lang. Speech bubble: \"Chú mau đi tìm đạo sĩ!\"",
+    "Nhị Lang dashes out of the gate. No text."
+   ]
+  },
+  {
+   "id": "3-02",
+   "part": 3,
+   "layout": "2-1",
+   "refs": [
+    "daosi@robe",
+    "nhanhilang"
+   ],
+   "panels": [
+    "The Taoist priest (daosi@robe) hears the news and clenches his fist in fury. Speech bubble: \"Ta thương nó mà tha, nó dám làm vậy!\"",
+    "The priest stands in the courtyard of Vương sinh, scanning the air with narrowed eyes. Speech bubble: \"Nó đã trốn sang nhà phía nam.\"",
+    "The young man Nhị Lang (plain brown clothes) stunned. Speech bubble: \"Đó… là nhà em!\""
+   ]
+  },
+  {
+   "id": "3-03",
+   "part": 3,
+   "layout": "2x2",
+   "refs": [
+    "daosi@robe",
+    "nhanhilang"
+   ],
+   "panels": [
+    "At the courtyard house of Nhị Lang. The priest asks him. Speech bubble: \"Hôm nay có ai lạ đến không?\"",
+    "Nhị Lang (plain brown clothes) remembering. Speech bubble: \"Sáng nay có một bà lão xin giúp việc.\"",
+    "An old woman with a broom sweeping the courtyard glances sideways; her eyes glint yellow for an instant. No text.",
+    "The priest points straight at her. Speech bubble: \"Chính là nó!\""
+   ]
+  },
+  {
+   "id": "3-04",
+   "part": 3,
+   "layout": "2-big",
+   "refs": [
+    "daosi@robe",
+    "nang@demon",
+    "nhanhilang"
+   ],
+   "panels": [
+    "The priest draws his peachwood sword. Speech bubble: \"Yêu nghiệt! Trả tấm da đây!\"",
+    "The old woman throws down the broom and runs. No text.",
+    "BIG PANEL: the priest strikes; the old-woman disguise falls away like a cloak and the demon (nang@demon) is revealed, shrieking. Sound effect: \"XOẠT!\" No blood, no gore."
+   ]
+  },
+  {
+   "id": "3-05",
+   "part": 3,
+   "layout": "big-2",
+   "refs": [
+    "daosi@robe",
+    "holo",
+    "nhanhilang"
+   ],
+   "panels": [
+    "BIG PANEL: the demon dissolves into a towering column of thick swirling black smoke in the courtyard. No text.",
+    "The priest uncorks his gourd (holo) and the smoke is sucked inside. Sound effect: \"VÙ…\"",
+    "The priest rolls up the empty painted skin like a scroll painting. Speech bubble: \"Thì ra chỉ là tấm da vẽ.\""
+   ]
+  },
+  {
+   "id": "3-06",
+   "part": 3,
+   "layout": "2-1",
+   "refs": [
+    "daosi@robe",
+    "tran@home",
+    "nhanhilang"
+   ],
+   "panels": [
+    "Trần thị (tran@home) kneels, sobbing. Speech bubble: \"Xin đạo trưởng cứu chồng con!\"",
+    "The priest (daosi@robe) shakes his head gravely. Speech bubble: \"Ta không thể cải tử hoàn sinh.\"",
+    "The priest points toward the market. Speech bubble: \"Ngoài chợ có người điên. Hãy cầu xin hắn, dù bị nhục cũng phải chịu.\""
+   ]
+  },
+  {
+   "id": "3-07",
+   "part": 3,
+   "layout": "1-2",
+   "refs": [
+    "tran@home",
+    "dien@rags",
+    "cho"
+   ],
+   "panels": [
+    "Wide shot of the market: a ragged madman (dien@rags) sprawled in the dirt before a small temple gate, singing and laughing. No text.",
+    "Trần thị (tran@home) kneels before him. Speech bubble: \"Xin ông cứu chồng tôi.\"",
+    "The madman roars with laughter. Speech bubble: \"Người đẹp thế này, lấy ta làm chồng đi!\""
+   ]
+  },
+  {
+   "id": "3-08",
+   "part": 3,
+   "layout": "2-big",
+   "refs": [
+    "tran@home",
+    "dien@rags",
+    "cho"
+   ],
+   "panels": [
+    "The madman swings his stick at Trần thị while a crowd gathers, jeering. Caption box: \"Bị đánh, bị cười chê, bà vẫn quỳ xin.\"",
+    "Close-up: Trần thị bites her lip, enduring, tears streaming down. No text.",
+    "BIG PANEL: the madman picks up a moldy half-eaten bun from the dirt and shoves it at her face. Speech bubble: \"Ăn đi! Ăn hết thì ta cứu!\" Trần thị shuts her eyes and swallows it while the crowd laughs."
+   ]
+  },
+  {
+   "id": "3-09",
+   "part": 3,
+   "layout": "2-1",
+   "refs": [
+    "tran@home",
+    "dien@rags",
+    "vuong@night",
+    "cho",
+    "phongngu"
+   ],
+   "panels": [
+    "The madman turns and walks into the temple — and is gone without a trace. Caption box: \"Người điên vào miếu rồi biến mất.\"",
+    "At home Trần thị embraces the body of her husband (vuong@night), weeping, then suddenly clutches her chest and retches. No text.",
+    "A glowing red heart, still beating, leaps from her into the chest of Vương sinh in a burst of warm golden light. Caption box: \"Thứ bà nuốt hóa thành trái tim, nhảy vào lồng ngực chồng.\" Magical, not gory."
+   ]
+  },
+  {
+   "id": "3-10",
+   "part": 3,
+   "layout": "big-2",
+   "refs": [
+    "vuong@night",
+    "tran@home",
+    "phongngu"
+   ],
+   "panels": [
+    "BIG PANEL: dawn light through the window, Vương sinh (vuong@night) opens his eyes as Trần thị (tran@home) throws her arms around him. Speech bubble from Vương sinh: \"Ta… như vừa qua giấc mộng dài.\"",
+    "Trần thị smiling through tears. No text.",
+    "A quiet still-life of the rolled painted-skin scroll on a table beside a brush. Caption box: \"Ngu thay người đời! Rõ ràng là yêu mà cho là đẹp.\" Smaller caption: \"Liêu Trai Chí Dị\""
+   ]
+  }
+ ]
+}
